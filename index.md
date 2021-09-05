@@ -1,7 +1,5 @@
 # paper list
 
-There are some papers about knowledge graph domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
-
 ## ACL 会议
 
 - ## 2021年
