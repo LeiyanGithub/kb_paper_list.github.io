@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-09-05 14:36:02
- * @LastEditTime: 2021-10-26 21:06:00
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /undefined/Users/leiyan/博一/task_for_kun/index.md
--->
 # paper list
 
 There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
