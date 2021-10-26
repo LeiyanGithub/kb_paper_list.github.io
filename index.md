@@ -46,14 +46,12 @@
 
 3. GTM: A Generative Triple-wise Model for Conversational Question Generation[[paper]](https://arxiv.org/pdf/2106.03635.pdf)
 
-4.Controllable Open-ended Question Generation with A New Question Type Ontology[[paper]](https://arxiv.org/pdf/2107.00152.pdf)
+4. Controllable Open-ended Question Generation with A New Question Type Ontology[[paper]](https://arxiv.org/pdf/2107.00152.pdf)
 
-5. Question Generation for Adaptive Education[[paper]]（https://arxiv.org/pdf/2106.04262.pdf）
+5. Question Generation for Adaptive Education[[paper]](https://arxiv.org/pdf/2106.04262.pdf)
 
 6. Learning to Generate Questions by Learning to Recover Answer-containing Sentences[[paper]](https://aclanthology.org/2021.findings-acl.132.pdf)
 
 7. Multi-Lingual Question Generation with Language Agnostic Language Model[[paper]](https://arxiv.org/pdf/2105.03432.pdf)
 
 8. Latent Reasoning for Low-Resource Question Generation[[papaer]](https://aclanthology.org/2021.findings-acl.265.pdf)
-
-
