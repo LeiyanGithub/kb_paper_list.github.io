@@ -1,5 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-09-05 14:36:02
+ * @LastEditTime: 2021-10-26 21:06:00
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /undefined/Users/leiyan/博一/task_for_kun/index.md
+-->
 # paper list
 
+There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
 ## ACL 会议
 
 - ## 2021年
@@ -38,8 +47,8 @@
 31. Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering [[paper]](https://arxiv.org/pdf/2106.11575.pdf)
 32. Learning to Perturb Word Embeddings for Out-of-distribution QA [[paper]](https://arxiv.org/pdf/2105.02692.pdf)
 
-
 ### 问题生成
+- #### papers
 1. Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting[[paper]](https://arxiv.org/pdf/2105.11698.pdf)
 
 2. Engage the Public: Poll Question Generation for Social Media Posts[[paper]](https://aclanthology.org/2021.acl-long.3.pdf)
@@ -50,8 +59,29 @@
 
 5. Question Generation for Adaptive Education[[paper]](https://arxiv.org/pdf/2106.04262.pdf)
 
-6. Learning to Generate Questions by Learning to Recover Answer-containing Sentences[[paper]](https://aclanthology.org/2021.findings-acl.132.pdf)
+- #### Findings
+1. Learning to Generate Questions by Learning to Recover Answer-containing Sentences[[paper]](https://aclanthology.org/2021.findings-acl.132.pdf)
 
-7. Multi-Lingual Question Generation with Language Agnostic Language Model[[paper]](https://arxiv.org/pdf/2105.03432.pdf)
+2. Multi-Lingual Question Generation with Language Agnostic Language Model[[paper]](https://arxiv.org/pdf/2105.03432.pdf)
 
-8. Latent Reasoning for Low-Resource Question Generation[[papaer]](https://aclanthology.org/2021.findings-acl.265.pdf)
+3. Latent Reasoning for Low-Resource Question Generation[[papaer]](https://aclanthology.org/2021.findings-acl.265.pdf)
+
+## emnlp会议
+- ## 2021年
+### 问题生成
+- #### papers
+1. Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing[[paper]](https://arxiv.org/pdf/2103.02227.pdf)
+
+2. Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering[[paper]](https://arxiv.org/pdf/2104.08202.pdf)
+
+3. Improving Unsupervised Question Answering via Summarization-Informed Question Generation[[paper]](https://arxiv.org/pdf/2109.07954.pdf)
+
+4. Asking It All: Generating Contextualized Questions for any Semantic Role[[paper]](https://arxiv.org/pdf/2109.04832.pdf)
+
+5. Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval[[paper]](https://arxiv.org/pdf/2104.08801.pdf)
+
+6. Open-domain clarification question generation without question examples[[paper]](https://arxiv.org/pdf/2110.09779.pdf)
+
+
+- #### Findings
+1. Simple or Complex? Complexity-controllable Question Generation with Soft Templates and Deep Mixture of Experts Model[[paper]](https://arxiv.org/pdf/2110.06560.pdf)
