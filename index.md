@@ -11,8 +11,8 @@
 There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
 ## ACL 会议
 
-- ## 2021年
-    ### 问答相关
+## 2021年
+### 问答相关
 
 1. Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering [[paper]](https://arxiv.org/pdf/2108.02866.pdf)
 2. Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting [[paper]](https://arxiv.org/pdf/2105.11698.pdf)
@@ -48,7 +48,7 @@ There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, N
 32. Learning to Perturb Word Embeddings for Out-of-distribution QA [[paper]](https://arxiv.org/pdf/2105.02692.pdf)
 
 ### 问题生成
-- #### papers
+#### papers
 1. Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting[[paper]](https://arxiv.org/pdf/2105.11698.pdf)
 
 2. Engage the Public: Poll Question Generation for Social Media Posts[[paper]](https://aclanthology.org/2021.acl-long.3.pdf)
@@ -59,7 +59,7 @@ There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, N
 
 5. Question Generation for Adaptive Education[[paper]](https://arxiv.org/pdf/2106.04262.pdf)
 
-- #### Findings
+#### Findings
 1. Learning to Generate Questions by Learning to Recover Answer-containing Sentences[[paper]](https://aclanthology.org/2021.findings-acl.132.pdf)
 
 2. Multi-Lingual Question Generation with Language Agnostic Language Model[[paper]](https://arxiv.org/pdf/2105.03432.pdf)
@@ -67,9 +67,9 @@ There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, N
 3. Latent Reasoning for Low-Resource Question Generation[[papaer]](https://aclanthology.org/2021.findings-acl.265.pdf)
 
 ## emnlp会议
-- ## 2021年
+## 2021年
 ### 问题生成
-- #### papers
+#### papers
 1. Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing[[paper]](https://arxiv.org/pdf/2103.02227.pdf)
 
 2. Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering[[paper]](https://arxiv.org/pdf/2104.08202.pdf)
@@ -83,5 +83,5 @@ There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, N
 6. Open-domain clarification question generation without question examples[[paper]](https://arxiv.org/pdf/2110.09779.pdf)
 
 
-- #### Findings
+#### Findings
 1. Simple or Complex? Complexity-controllable Question Generation with Soft Templates and Deep Mixture of Experts Model[[paper]](https://arxiv.org/pdf/2110.06560.pdf)
