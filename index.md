@@ -6,6 +6,19 @@
  * @Description: In User Settings Edit
  * @FilePath: /undefined/Users/leiyan/博一/task_for_kun/index.md
 -->
+# question answering
+
+1. Open Question Answering Over Curated and Extracted Knowledge Bases [[paper]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623677)
+2. Core techniques of question answering systems over knowledge bases: a survey [[paper]](https://link.springer.com/content/pdf/10.1007/s10115-017-1100-y.pdf)
+3. KBQA: Learning Question Answering over QA Corpora and Knowledge Bases [[paper]](https://arxiv.org/pdf/1903.02419.pdf)
+4. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text [[paper]](https://arxiv.org/pdf/1809.00782.pdf)
+5. Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks [[paper]](https://arxiv.org/pdf/1704.08384.pdf)
+6. The Question Answering Systems: A Survey [[paper]](http://www.aliallam.net/upload/598575/documents/ECFF549932079694.pdf)
+7. Knowledge Graph Embedding Based Question Answering [[paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)
+8. Variational Reasoning for Question Answering with Knowledge Graph [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983/16176)
+9. Constraint-Based Question Answering with Knowledge Graph [[paper]](https://aclanthology.org/C16-1236.pdf)
+
+
 # paper list
 
 There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
