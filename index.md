@@ -17,7 +17,8 @@
 7. Knowledge Graph Embedding Based Question Answering [[paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)
 8. Variational Reasoning for Question Answering with Knowledge Graph [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983/16176)
 9. Constraint-Based Question Answering with Knowledge Graph [[paper]](https://aclanthology.org/C16-1236.pdf)
-
+10. Key-Value Memory Networks for Directly Reading Documents [[paper]])(https://arxiv.org/pdf/1606.03126.pdf)
+11. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions [[paper]](https://arxiv.org/pdf/2105.11644.pdf)
 
 # paper list
 
