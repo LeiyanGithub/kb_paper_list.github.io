@@ -20,7 +20,24 @@
 10. Key-Value Memory Networks for Directly Reading Documents [[paper]])(https://arxiv.org/pdf/1606.03126.pdf)
 11. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions [[paper]](https://arxiv.org/pdf/2105.11644.pdf)
 
+# knowledge reasoning
+1. DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning[[paper]](https://arxiv.org/pdf/1707.06690.pdf)
 # paper list
+2. Multi-Hop Knowledge Graph Reasoning with Reward Shaping[[paper]](https://arxiv.org/pdf/1808.10568.pdf)
+3. Variational Reasoning for Question Answering with Knowledge Graph[[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983/16176)
+
+# 自然答案生成
+1. Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning[[paper]]()
+
+# 预训练论文
+1. TILE: ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation [[paper]](https://arxiv.org/pdf/2001.11314v3.pdf)
+2. TILE: Unified Language Model Pre-training for Natural Language Understanding and Generation [[paper]](http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf)
+3. TILE: CoQA: A Conversational Question Answering Challenge [[paper]](https://arxiv.org/pdf/1808.07042v2.pdf)
+4. TILE: Neural Generative Question Answering [[paper]](https://arxiv.org/pdf/1512.01337v4.pdf)
+5. TILE: KPQA: A Metric for Generative Question Answering Using Word Weights [[paper]](https://cloud.tencent.com/developer/article/1672589)
+6. TILE: PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation [[paper]](https://arxiv.org/pdf/2004.07159v1.pdf)
+7. TILE: Incorporating External Knowledge into Machine Reading for Generative Question Answering [[paper]](https://arxiv.org/pdf/1711.06238v2.pdf)
+
 
 There are some papers about knowledge domain in ACL, EMNLP, WWW, AAAI, COLING, NAACL, CIKM, WSDM
 ## ACL 会议
