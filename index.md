@@ -22,7 +22,6 @@
 
 # knowledge reasoning
 1. DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning[[paper]](https://arxiv.org/pdf/1707.06690.pdf)
-# paper list
 2. Multi-Hop Knowledge Graph Reasoning with Reward Shaping[[paper]](https://arxiv.org/pdf/1808.10568.pdf)
 3. Variational Reasoning for Question Answering with Knowledge Graph[[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983/16176)
 
